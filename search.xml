@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>第三篇博客</title>
+      <link href="/2022/11/07/%E7%AC%AC%E4%B8%89%E7%AF%87/"/>
+      <url>/2022/11/07/%E7%AC%AC%E4%B8%89%E7%AF%87/</url>
+      
+        <content type="html"><![CDATA[<h2 id="社交网络"><a href="#社交网络" class="headerlink" title="社交网络"></a>社交网络</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电影 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第四篇博客</title>
       <link href="/2022/11/07/%E7%AC%AC%E5%9B%9B%E7%AF%87/"/>
       <url>/2022/11/07/%E7%AC%AC%E5%9B%9B%E7%AF%87/</url>
@@ -18,24 +37,11 @@
       </categories>
       
       
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第三篇博客</title>
-      <link href="/2022/11/07/%E7%AC%AC%E4%B8%89%E7%AF%87/"/>
-      <url>/2022/11/07/%E7%AC%AC%E4%B8%89%E7%AF%87/</url>
-      
-        <content type="html"><![CDATA[<h2 id="社交网络"><a href="#社交网络" class="headerlink" title="社交网络"></a>社交网络</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 电影 </category>
-          
-      </categories>
-      
+        <tags>
+            
+            <tag> 音乐 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -95,17 +101,6 @@
     
     
     <entry>
-      <title>合作链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -117,31 +112,20 @@
     
     
     <entry>
+      <title>合作链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -164,6 +148,28 @@
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
