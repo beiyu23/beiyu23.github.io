@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title>第三篇博客</title>
-      <link href="/2022/11/07/%E7%AC%AC%E4%B8%89%E7%AF%87/"/>
-      <url>/2022/11/07/%E7%AC%AC%E4%B8%89%E7%AF%87/</url>
-      
-        <content type="html"><![CDATA[<h2 id="社交网络"><a href="#社交网络" class="headerlink" title="社交网络"></a>社交网络</h2>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 电影 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>第四篇博客</title>
       <link href="/2022/11/07/%E7%AC%AC%E5%9B%9B%E7%AF%87/"/>
       <url>/2022/11/07/%E7%AC%AC%E5%9B%9B%E7%AF%87/</url>
@@ -30,12 +11,31 @@
         <content type="html"><![CDATA[<h2 id="风度"><a href="#风度" class="headerlink" title="风度"></a>风度</h2>]]></content>
       
       
+      <categories>
+          
+          <category> 音乐 </category>
+          
+      </categories>
       
-        <tags>
-            
-            <tag> 音乐 </tag>
-            
-        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第三篇博客</title>
+      <link href="/2022/11/07/%E7%AC%AC%E4%B8%89%E7%AF%87/"/>
+      <url>/2022/11/07/%E7%AC%AC%E4%B8%89%E7%AF%87/</url>
+      
+        <content type="html"><![CDATA[<h2 id="社交网络"><a href="#社交网络" class="headerlink" title="社交网络"></a>社交网络</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电影 </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -95,28 +95,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>合作链接</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -128,20 +106,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -164,6 +131,39 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
